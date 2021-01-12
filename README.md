@@ -16,6 +16,6 @@ none
 - Answer Key :: js-to-do-app-code-along-bootcamp ::  https://github.com/JunoBootcampProjectsLiveTest/js-to-do-app/blob/main/JS-to-do-app-answer.html
 
 ## Project Screenshot:
-![project sreenshot](https://...)
+![project sreenshot](https://github.com/JunoBootcampProjectsLiveTest/js-to-do-app/blob/main/screenshot.png)
 
 
