@@ -6,7 +6,9 @@ none
 
 ## Lessons that reference this Project in the Notes
 
-- 
+- Main page - JavaScript code-alongs :: https://github.com/HackerYou/bootcamp-notes/blob/ea30e0f8f702d2199a923064816c9ec9e08e916f/README.md#javascript-code-alongs
+- To-do app code-along :: https://github.com/HackerYou/bootcamp-notes/blob/47198c913b2ab749a231ae3399f531646bb89c9b/applied-javascript/to-do-app.md#to-do-app-code-along
+
 
 ## How to Link this project:
 
